@@ -9,7 +9,7 @@ echo ""
 echo "WARNING: Program doesn't detect if input is a valid file."
 echo ""
 
-if [ $# = 1 ]
+if [ $# == 1 ]
 then
 	if [ $1 == "-h" ] 
 	then
