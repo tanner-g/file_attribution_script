@@ -1,7 +1,7 @@
 import csv
 
 # Purpose: read in SSDEEP output and print findings.
-# Author: Tanner Glantz
+# Author: Tanner G.
 
 def main():
 	print("------------------")
