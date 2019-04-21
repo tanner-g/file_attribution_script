@@ -14,8 +14,8 @@ then
 	if [ $1 == "-h" ] 
 	then
 		# help menu if "-h" switch is provided
-		echo "sas.sh is written by Tanner Glantz. Project utilizes the ssdeep tool and tlsh tool."
-		echo "./sas.sh [File A] [File B]"
+		echo "fas.sh is written by Tanner G. Project utilizes the ssdeep tool and sdhash tool."
+		echo "./fas.sh [File A] [File B]"
 		exit 1
 	fi
 fi
