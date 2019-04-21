@@ -35,7 +35,7 @@ then
 	sdhash -c sdhash_filea sdhash_fileb > sdhash_results
 	python parse_sdhash_output.py
 
-	echo " Using [diff] to point out line diffrences for better context"
+	echo " Using [diff] to point out line differences for better context"
 	echo ""
 	echo "------------"
 	echo "DIFF  OUTPUT"
