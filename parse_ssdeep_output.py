@@ -1,7 +1,7 @@
 from decimal import *
 
 # Purpose: read in SSDEEP output and print findings.
-# Author: Tanner Glantz
+# Author: Tanner G.
 
 def main():
 	file = open("ssdeep_comparison", "r")
