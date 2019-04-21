@@ -1,5 +1,5 @@
 #! /bin/bash
-# Author: Tanner Glantz
+# Author: Tanner G.
 # Title: file_attribution_script (fas)
 
 echo "* ----------------------------*"
